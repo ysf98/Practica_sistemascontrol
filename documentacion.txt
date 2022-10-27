@@ -1,8 +1,0 @@
-Documentacion del proceso:
-Primero se ha creado el index con el boilerplate, dentro hemos creado una estructura con un header, el cuerpo y un footer
-Dentro del header es donde hay ejemplos de modificacion implementada:
-Para modificar contenido HTML se indica cual va a ser modificado y luego con innerHTML se cambia su contenido
-Para modificar estilosCSS se indica cual va a ser modificado y luego con style y indicando lo que queremos modificar se modificacion
-Hay tres enlaces a páginas donde se puede modificar tanto el contenido HTML, sus atributos o el estilo CSS que se emplea, con esto podemos cambiar el tipo de letra, el contenido, el color, sus atributos...
-Para esto en git se han creado varias ramas para separar los trabajos de la produccion o desarrollo, despues se incorpora todo a la rama inicial
-Una vez terminado la implementacion de la pagina se hace la version 1.0 con git tag y una rama "test" donde los testers puedan hacer pruebas
